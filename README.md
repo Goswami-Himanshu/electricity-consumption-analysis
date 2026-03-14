@@ -1,6 +1,8 @@
 
 https://public.tableau.com/views/electricity_dashboard/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+https://public.tableau.com/views/electricity_dashboard/IntroductiontoElectricityConsumptionStory1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 # Plugging into the Future: An Exploration of Electricity Consumption Patterns
 
 ## Project Overview
